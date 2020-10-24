@@ -46,7 +46,7 @@ Para organizarnos creamos un tablero en "Trello" para ir estableciendo la lista 
 
 ## Links
 
-Flowchart: https://drive.google.com/file/d/1k4gB27bE01Fto54LU3S_CTmIo7F8lceN/view?usp=sharing
+Flowchart: https://drive.google.com/file/d/1k4gB27bE01Fto54LU3S_CTmIo7F8lceN/view?usp=sharing \n
 Tablero organización Trello: https://trello.com/b/T6L17MhB/project1
 Presentación: https://docs.google.com/presentation/d/1nynA8UxnRKwWxQSXilV-DhaZUM9s60WzhWF8WNgjE6A/edit?usp=sharing
 Código: https://colab.research.google.com/drive/19QPjpLzH3SorCUapmwIpHLXH0y3m097n?usp=sharing
